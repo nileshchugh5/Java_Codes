@@ -1,2 +1,2 @@
-# Java_Codes
-cognizant handson code
+# Java-Codes.github.io
+Cognizant Handson Codes (Java)
