@@ -17,7 +17,7 @@ class Main{
 
         if(distance <= 0)
         {
-            System.out.print((int)distance+ " is an Invalid Input\n");
+            System.out.print((int)distance+" is an Invalid Input\n");
             return;
         }
         else 
